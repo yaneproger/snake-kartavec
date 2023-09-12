@@ -72,7 +72,7 @@ namespace Snake
 				food.sym = head.sym;
 				pList.Add( food );
 				return true;
-			}
+			}        
 			else
 				return false;
 		}

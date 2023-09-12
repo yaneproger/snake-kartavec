@@ -47,7 +47,7 @@ namespace Snake
 					snake.HandleKey( key.Key );
 				}
 			}
-      }
+       }
 
 	}
 }
